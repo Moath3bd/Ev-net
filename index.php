@@ -7,7 +7,7 @@
     <meta name="keywords" content="Manup, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Manup | Template</title>
+    <title>Ev-net</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,500,600,700,800,900&display=swap"
@@ -35,16 +35,16 @@
     <header class="header-section">
         <div class="container">
             <div class="logo">
-                <a href="./index.html">
+                <a href="./index.php">
                     <img src="img/logo.png" alt="">
                 </a>
             </div>
             <div class="nav-menu">
                 <nav class="mainmenu mobile-menu">
                     <ul>
-                        <li class="active"><a href="./index.html">Home</a></li>
-                        <li><a href="./about-us.html">About</a></li>
-                        <li><a href="./speaker.html">Speakers</a>
+                        <li class="active"><a href="./index.php">Home</a></li>
+                        <li><a href="./about-us.php">About</a></li>
+                        <li><a href="./speaker.php">Speakers</a>
                             <ul class="dropdown">
                                 <li><a href="#">Jayden</a></li>
                                 <li><a href="#">Sara</a></li>
@@ -52,9 +52,9 @@
                                 <li><a href="#">Harriet</a></li>
                             </ul>
                         </li>
-                        <li><a href="./schedule.html">Schedule</a></li>
-                        <li><a href="./blog.html">Blog</a></li>
-                        <li><a href="./contact.html">Contacts</a></li>
+                        <li><a href="./schedule.php">Schedule</a></li>
+                        <li><a href="./blog.php">Blog</a></li>
+                        <li><a href="./contact.php">Contacts</a></li>
                     </ul>
                 </nav>
                 <a href="#" class="primary-btn top-btn"><i class="fa fa-ticket"></i> Ticket</a>
@@ -1015,7 +1015,7 @@
                     <div class="latest-item set-bg large-item" data-setbg="img/blog/latest-b/latest-1.jpg">
                         <div class="li-tag">Marketing</div>
                         <div class="li-text">
-                            <h4><a href="./blog-details.html">Improve You Business Cards And Enchan Your Sales</a></h4>
+                            <h4><a href="./blog-details.php">Improve You Business Cards And Enchan Your Sales</a></h4>
                             <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                         </div>
                     </div>
@@ -1024,14 +1024,14 @@
                     <div class="latest-item set-bg" data-setbg="img/blog/latest-b/latest-2.jpg">
                         <div class="li-tag">Experience</div>
                         <div class="li-text">
-                            <h5><a href="./blog-details.html">All users on MySpace will know that there are millions of people out there.</a></h5>
+                            <h5><a href="./blog-details.php">All users on MySpace will know that there are millions of people out there.</a></h5>
                             <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                         </div>
                     </div>
                     <div class="latest-item set-bg" data-setbg="img/blog/latest-b/latest-3.jpg">
                         <div class="li-tag">Marketing</div>
                         <div class="li-text">
-                            <h5><a href="./blog-details.html">A Pocket PC is a handheld computer, which features many of the same capabilities.</a></h5>
+                            <h5><a href="./blog-details.php">A Pocket PC is a handheld computer, which features many of the same capabilities.</a></h5>
                             <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                         </div>
                     </div>

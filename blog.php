@@ -35,16 +35,16 @@
     <header class="header-section header-normal">
         <div class="container">
             <div class="logo">
-                <a href="./index.html">
+                <a href="./index.php">
                     <img src="img/logo.png" alt="">
                 </a>
             </div>
             <div class="nav-menu">
                 <nav class="mainmenu mobile-menu">
                     <ul>
-                        <li><a href="./index.html">Home</a></li>
-                        <li><a href="./about-us.html">About</a></li>
-                        <li><a href="./speaker.html">Speakers</a>
+                        <li><a href="./index.php">Home</a></li>
+                        <li><a href="./about-us.php">About</a></li>
+                        <li><a href="./speaker.php">Speakers</a>
                             <ul class="dropdown">
                                 <li><a href="#">Jayden</a></li>
                                 <li><a href="#">Sara</a></li>
@@ -52,9 +52,9 @@
                                 <li><a href="#">Harriet</a></li>
                             </ul>
                         </li>
-                        <li><a href="./schedule.html">Schedule</a></li>
-                        <li class="active"><a href="./blog.html">Blog</a></li>
-                        <li><a href="./contact.html">Contacts</a></li>
+                        <li><a href="./schedule.php">Schedule</a></li>
+                        <li class="active"><a href="./blog.php">Blog</a></li>
+                        <li><a href="./contact.php">Contacts</a></li>
                     </ul>
                 </nav>
                 <a href="#" class="primary-btn top-btn"><i class="fa fa-ticket"></i> Ticket</a>
@@ -92,7 +92,7 @@
                             <div class="blog-item set-bg" data-setbg="img/blog/blog-1.jpg">
                                 <div class="bi-tag bg-gradient">Foody</div>
                                 <div class="bi-text">
-                                    <h5><a href="./blog-details.html">Google's AI Assistant Aims to Transcend the Smart Speaker</a></h5>
+                                    <h5><a href="./blog-details.php">Google's AI Assistant Aims to Transcend the Smart Speaker</a></h5>
                                     <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                                 </div>
                             </div>
@@ -101,7 +101,7 @@
                             <div class="blog-item set-bg" data-setbg="img/blog/blog-2.jpg">
                                 <div class="bi-tag bg-gradient">Foody</div>
                                 <div class="bi-text">
-                                    <h5><a href="./blog-details.html">Free Classifiends Using Them To Promote</a></h5>
+                                    <h5><a href="./blog-details.php">Free Classifiends Using Them To Promote</a></h5>
                                     <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                                 </div>
                             </div>
@@ -110,7 +110,7 @@
                     <div class="blog-item set-bg large-item" data-setbg="img/blog/blog-4.jpg">
                         <div class="bi-tag bg-gradient">Business</div>
                         <div class="bi-text">
-                            <h3><a href="./blog-details.html">"Inspired By Modiji, Will Make Biopic": BJP's Ravi Kishan</a></h3>
+                            <h3><a href="./blog-details.php">"Inspired By Modiji, Will Make Biopic": BJP's Ravi Kishan</a></h3>
                             <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                         </div>
                     </div>
@@ -119,7 +119,7 @@
                             <div class="blog-item set-bg" data-setbg="img/blog/blog-7.jpg">
                                 <div class="bi-tag bg-gradient">Foody</div>
                                 <div class="bi-text">
-                                    <h5><a href="./blog-details.html">The ZenBook With a Touchpad That Lights Up</a></h5>
+                                    <h5><a href="./blog-details.php">The ZenBook With a Touchpad That Lights Up</a></h5>
                                     <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                                 </div>
                             </div>
@@ -128,7 +128,7 @@
                             <div class="blog-item set-bg" data-setbg="img/blog/blog-8.jpg">
                                 <div class="bi-tag bg-gradient">Foody</div>
                                 <div class="bi-text">
-                                    <h5><a href="./blog-details.html">Is the Detel Posh a Posh Speaker?</a></h5>
+                                    <h5><a href="./blog-details.php">Is the Detel Posh a Posh Speaker?</a></h5>
                                     <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                                 </div>
                             </div>
@@ -139,7 +139,7 @@
                     <div class="blog-item set-bg large-item" data-setbg="img/blog/blog-3.jpg">
                         <div class="bi-tag bg-gradient">Marketing</div>
                         <div class="bi-text">
-                            <h3><a href="./blog-details.html">Lok Sabha Elections 2019 - In BJP, Only ''Tai'' Can Admonish Me: PM Modi On Sumitra
+                            <h3><a href="./blog-details.php">Lok Sabha Elections 2019 - In BJP, Only ''Tai'' Can Admonish Me: PM Modi On Sumitra
                                 Mahajan</a></h3>
                             <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                         </div>
@@ -149,7 +149,7 @@
                             <div class="blog-item set-bg" data-setbg="img/blog/blog-5.jpg">
                                 <div class="bi-tag bg-gradient">Design</div>
                                 <div class="bi-text">
-                                    <h5><a href="./blog-details.html">The Biggest Stories Of January 06, 2019</a></h5>
+                                    <h5><a href="./blog-details.php">The Biggest Stories Of January 06, 2019</a></h5>
                                     <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                                 </div>
                             </div>
@@ -158,7 +158,7 @@
                             <div class="blog-item set-bg" data-setbg="img/blog/blog-6.jpg">
                                 <div class="bi-tag bg-gradient">UX/UI</div>
                                 <div class="bi-text">
-                                    <h5><a href="./blog-details.html">Alexa Can Now Show You Things!</a></h5>
+                                    <h5><a href="./blog-details.php">Alexa Can Now Show You Things!</a></h5>
                                     <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                                 </div>
                             </div>
@@ -167,7 +167,7 @@
                     <div class="blog-item set-bg" data-setbg="img/blog/blog-9.jpg">
                         <div class="bi-tag bg-gradient">Marketing</div>
                         <div class="bi-text">
-                            <h3><a href="./blog-details.html">"Still Waiting For BJP To Make Me Chief Minister": Goa Assembly Speaker</a></h3>
+                            <h3><a href="./blog-details.php">"Still Waiting For BJP To Make Me Chief Minister": Goa Assembly Speaker</a></h3>
                             <span><i class="fa fa-clock-o"></i> 19th May, 2019</span>
                         </div>
                     </div>
